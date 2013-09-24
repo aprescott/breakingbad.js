@@ -13,3 +13,7 @@ javascript:var e=document.createElement("script");e.type = "text/javascript";e.s
 ## Host-free version
 
 Use the contents of `bookmarklet.js` as the URL of a bookmarklet. Make sure to put `javascript:` in front of it. It won't rely on any external server, but you won't get any changes if the script updates.
+
+# Thanks
+
+Almost all the functionality of this rests basically on [James Padolsey](http://james.padolsey.com)'s [find and replace library](https://github.com/padolsey/findAndReplaceDOMText).
