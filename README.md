@@ -9,3 +9,7 @@ javascript:var e=document.createElement("script");e.type = "text/javascript";e.s
 ```
 
 (No promises about this working indefinitely into the future. :))
+
+## Host-free version
+
+Use the contents of `bookmarklet.js` as the URL of a bookmarklet. Make sure to put `javascript:` in front of it. It won't rely on any external server, but you won't get any changes if the script updates.
