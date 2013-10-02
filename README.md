@@ -8,7 +8,7 @@ Make a new bookmark with this URL:
 javascript:var e=document.createElement("script");e.type = "text/javascript";e.src = "https://aprescott.com/files/breakingbad.js/bookmarklet.js";document.getElementsByTagName('head')[0].appendChild(e);
 ```
 
-(No promises about this working indefinitely into the future. :))
+(It relies on a file hosted at aprescott.com, so no promises about this working indefinitely into the future. :))
 
 ## Host-free version
 
